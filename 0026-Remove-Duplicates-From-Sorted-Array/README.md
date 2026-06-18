@@ -1,6 +1,6 @@
 26. Remove Duplicates from Sorted Array
 
-Approach
+Approach:
 
 This solution uses the Two Pointers technique.
 
@@ -9,12 +9,12 @@ This solution uses the Two Pointers technique.
 * When a new unique value is found, it is placed at the write position.
 * Since the array is sorted, duplicates appear consecutively and can be skipped efficiently.
 
-Complexity
+Complexity:
 
 * Time Complexity: O(n)
 * Space Complexity: O(1)
 
-Concepts Used
+Concepts Used:
 
 * Arrays
 * Two Pointers
