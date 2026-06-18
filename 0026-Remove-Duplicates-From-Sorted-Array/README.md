@@ -14,7 +14,7 @@ Complexity:
 * Time Complexity: O(n)
 * Space Complexity: O(1)
 
-Concepts Used:
+Concepts Used
 
 * Arrays
 * Two Pointers
